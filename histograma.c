@@ -7,9 +7,6 @@ Escriba un programa C que permita generar un array aleatorio de letras mayúscul
 abecedario inglés. El tamaño del array debe ser de 1000 posiciones.
 Finalmente debe imprimirse en pantalla la cantidad de veces que se repite cada letra en el
 array como porcentajes de un histograma.
-
-Gustavo Adán Vera Villalba
-C.I.N° 2.231.937
 */
 
 
